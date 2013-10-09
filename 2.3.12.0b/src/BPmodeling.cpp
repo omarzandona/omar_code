@@ -12,7 +12,7 @@ appunto a rumore e quindi si presentano in maniera costante/permanente nella sce
 Questo permette quindi di modellare la situazione meno frequente di Out-Of_Range in maniera tale 
 da garantire l'attivazione del blob virtuale solo in caso di effettiva situazione anomala
 consentendo anche di eliminare la presenza di blob virtuali dovuti a rumore che potrebbero portare a problemi di conteggio
-
+Prova per vedere la modifica
 \author Omar Zandon&agrave;, Andrea Colombari (eVS - embedded Vision Systems s.r.l. - http://www.evsys.net)
 */
 
